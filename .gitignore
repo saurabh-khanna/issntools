@@ -1,0 +1,22 @@
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+
+# IDEs/Editors
+.idea/
+
+# OS specific
+.DS_Store
+
+# Configurations
+.env
